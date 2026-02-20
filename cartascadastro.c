@@ -76,8 +76,8 @@ int main() {
     printf("Número de pontos turísticos: ");
     scanf("%d", &pontos_turisticos)2;
 
-    densidade1 = populacao2 / area2;
-    PibPerCapta1 = pib2 / populacao2; 
+    densidade2 = populacao2 / area2;
+    PibPerCapta2 = pib2 / populacao2; 
 
      / mostrando as cartas cadastradas
 
